@@ -1,0 +1,17 @@
+.header {
+  background-color: #F55A5A;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 55px;
+  width: 100%;
+  border-radius: 10px 10px 0 0;
+  margin-bottom: 40px;
+}
+
+.header h4 {  
+  margin-left: 8px;
+  font-size: 15px;
+  font-weight: 500;
+  color:  #FFFFFF;
+}
